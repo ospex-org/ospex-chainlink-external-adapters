@@ -4,7 +4,7 @@ Four Chainlink external adapters are used in this project.
 
 See https://github.com/thodges-gh/CL-EA-NodeJS-Template
 
-index.js file is included in this repository for each EA.
+index.js file is included in this repository for each EA, along with each TOML file.
 
 Two EAs are used to validate that the event IDs from the two APIs match.
 
