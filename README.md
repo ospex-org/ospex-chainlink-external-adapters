@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/status-deprecated-red)
+
+No longer using external adapters, using Chainlink Functions instead.
+
 # ospex-chainlink-external-adapters
 
 Four Chainlink external adapters are used in this project.
